@@ -25,7 +25,3 @@ green.addEventListener("click",()=>{
     child1.style.opacity = 0.2;
     child3.style.opacity = 1;
 })
-
-
-console.log(child1);
-
